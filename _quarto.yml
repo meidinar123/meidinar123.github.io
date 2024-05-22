@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Nawiyah"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      
+
+#bibliography: reference.bib
+#nocite: |
+#  @*
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

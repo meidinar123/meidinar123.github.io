@@ -1,0 +1,12 @@
+---
+title: "Lat-Q1"
+about:
+  template: trestles
+  image: profile.jpg
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: twitter
+    text: twitter
+    href: https://twitter.com/nawiyah
+---
